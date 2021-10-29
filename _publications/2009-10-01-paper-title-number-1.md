@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+F. Jalali Farahani and G. Ghassem-Sani, BERT-PerNER: a New Model for Persian Named Entity Recognition, <i>Proceedings of Recent Advances in Natural Language Processing (RANLP 2021) <i>, 1-3 September 2021, Varna, Bulgaria (Online), pp. 647-654.
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+
 
