@@ -17,7 +17,7 @@ Work experience
 * May, 2021 - Present : Research Intern
   *  <b>Max Planck Institute for Informatics </b>, Saarland Informatics Campus, Germany
 
-* Sep, 2018 - Sep, 2020 : Researach Assistance
+* Sep, 2018 - Sep, 2020 : Research Assistance
   *  <b> Sharif University of Technology </b>, Tehran, Iran
  
 
