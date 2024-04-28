@@ -13,7 +13,7 @@ name                     : &name "Farane Jalali Farahani"
 description              : &description "personal description"
 url                      : https://faranejalalifarahani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "faranejalalifarahani/faranejalalifarahani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Farane Jalali Farahani"
-  avatar           : "Me.jpg"
-  bio              : "Research intern at Max Planck Institute for Informatics"
+  avatar           : "profile-Farane.jpeg"
+  bio              : "PhD student at University of Stuttgart"
   location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6ynA9dkAAAAJ&view_op=list_works&gmla=ABOlHixBa2qtVN_V3wyHle4JpdsX-dDeYU0oJMmGFzLfjhYAzSikdSXH12xJnYsb_K0NYysvzEvlv3TEu0D_dBtqnC27v-obDghr3musKZGiq0M40Al4n1XTH_xHOQA4SWNpHtnnEWMTon47Bvdrl82bbeGGm6Cs"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
